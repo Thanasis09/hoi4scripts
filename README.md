@@ -1,7 +1,7 @@
 # HoI4 Scripts
 
 This is a repository containing different files that I have written while modding Hoi4 to help me.
-Currently, this repository includes 4 scripts, all in Python:
+Currently, this repository includes 5 scripts, all in Python:
  - `autogoaler.py`: A script that can automatically generate goal entries for you (not shines).
  - `datecalc.py`: A script that automatically calculates a given date (eg. 1936.2.20) to days to use to fire events.
  - `ddsToPng.py`: A simple script that lets you convert dds files to png, massively and easily.
