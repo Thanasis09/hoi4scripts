@@ -5,6 +5,7 @@ Currently, this repository includes 5 scripts, all in Python:
  - `autogoaler.py`: A script that can automatically generate goal entries for you (not shines).
  - `datecalc.py`: A script that automatically calculates a given date (eg. 1936.2.20) to days to use to fire events.
  - `ddsToPng.py`: A simple script that lets you convert dds files to png, massively and easily.
+ - `pngtodds.py`: A simple script that lets you convert png files to dds, easily.
  - `focuslocadder.py`: An advanced loc-adding script, that automatically adds loc keys to the output file. It also has automatic detection, finding the id (or desc) key and adding the desc key after (or the id key before).
  - `auto-framer.py`: A script that takes a picture, a starting and ending color and generates a gradient to be used for scripted GUI pieces.
 #
